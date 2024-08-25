@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>opendesk</title>
+    <link href="https://banbu1118.github.io/publii/feed.xml" rel="self" />
+    <link href="https://banbu1118.github.io/publii" />
+    <updated>2024-08-25T12:18:53+08:00</updated>
+    <author>
+        <name>banbu1118</name>
+    </author>
+    <id>https://banbu1118.github.io/publii</id>
+
+    <entry>
+        <title>帖子2</title>
+        <author>
+            <name>banbu1118</name>
+        </author>
+        <link href="https://banbu1118.github.io/publii/wen-zhang-2.html"/>
+        <id>https://banbu1118.github.io/publii/wen-zhang-2.html</id>
+            <category term="tag2"/>
+
+        <updated>2024-08-25T11:59:19+08:00</updated>
+            <summary>
+                <![CDATA[
+                    壁纸 😆 百度
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><span style="text-decoration: line-through; color: #2dc26b;"><span style="text-decoration: underline;"><em><strong>壁纸<br></strong></em></span></span><span style="color: #2dc26b;">😆</span><span style="text-decoration: line-through; color: #2dc26b;"><span style="text-decoration: underline;"><em><strong><br></strong></em></span></span><strong><a href="https://www.baidu.com" target="_blank" rel="noopener noreferrer">百度</a></strong><br><img loading="lazy"  src="https://banbu1118.github.io/publii/media/posts/2/2938541d5ec8be85fdb6a0acd3587663.jpg" alt="" width="1920" height="1080" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://banbu1118.github.io/publii/media/posts/2/responsive/2938541d5ec8be85fdb6a0acd3587663-xs.jpg 640w ,https://banbu1118.github.io/publii/media/posts/2/responsive/2938541d5ec8be85fdb6a0acd3587663-sm.jpg 768w ,https://banbu1118.github.io/publii/media/posts/2/responsive/2938541d5ec8be85fdb6a0acd3587663-md.jpg 1024w ,https://banbu1118.github.io/publii/media/posts/2/responsive/2938541d5ec8be85fdb6a0acd3587663-lg.jpg 1366w ,https://banbu1118.github.io/publii/media/posts/2/responsive/2938541d5ec8be85fdb6a0acd3587663-xl.jpg 1600w ,https://banbu1118.github.io/publii/media/posts/2/responsive/2938541d5ec8be85fdb6a0acd3587663-2xl.jpg 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>帖子1</title>
+        <author>
+            <name>banbu1118</name>
+        </author>
+        <link href="https://banbu1118.github.io/publii/wen-zhang-1.html"/>
+        <id>https://banbu1118.github.io/publii/wen-zhang-1.html</id>
+            <category term="tag1"/>
+
+        <updated>2024-08-25T11:51:32+08:00</updated>
+            <summary>
+                <![CDATA[
+                    k1 print("ok")
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li>k1</li>
+</ul>
+<pre class="language-python"><code>print("ok")</code></pre>
+            ]]>
+        </content>
+    </entry>
+</feed>

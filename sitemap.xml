@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://banbu1118.github.io/publii/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://banbu1118.github.io/publii/</loc>
+</url>
+<url>
+<loc>https://banbu1118.github.io/publii/wen-zhang-1-2.html</loc>
+<lastmod>2024-08-25T12:07:16+08:00</lastmod>
+<image:image>
+<image:loc>https://banbu1118.github.io/publii/media/posts/3/gallery/Wei-Xin-Tu-Pian_20240523161226-thumbnail.jpg</image:loc>
+<image:title><![CDATA[图片1]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://banbu1118.github.io/publii/media/posts/3/gallery/CB20231009120819836058-thumbnail.jpg</image:loc>
+<image:title><![CDATA[图片2]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://banbu1118.github.io/publii/media/posts/3/gallery/2938541d5ec8be85fdb6a0acd3587663-thumbnail.jpg</image:loc>
+<image:title><![CDATA[图片3]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://banbu1118.github.io/publii/wen-zhang-1.html</loc>
+<lastmod>2024-08-25T12:18:46+08:00</lastmod>
+</url>
+<url>
+<loc>https://banbu1118.github.io/publii/wen-zhang-2-2.html</loc>
+<lastmod>2024-08-25T12:17:24+08:00</lastmod>
+<image:image>
+<image:loc>https://banbu1118.github.io/publii/media/posts/4/CB20231009120819836058.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://banbu1118.github.io/publii/wen-zhang-2.html</loc>
+<lastmod>2024-08-25T12:18:53+08:00</lastmod>
+<image:image>
+<image:loc>https://banbu1118.github.io/publii/media/posts/2/2938541d5ec8be85fdb6a0acd3587663.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
