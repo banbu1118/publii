@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-Sitemap: https://banbu1118.github.io/publii/sitemap.xml
